@@ -5,11 +5,11 @@ import scipy.misc as smi
 import tensorflow as tf
 
 #Constants
-content_image_path = "stata.jpg"
-style_image_path = "udnie.jpg"
+content_image_path = "mumbai.jpg"
+style_image_path = "paint.jpg"
 vgg_path = "imagenet-vgg-verydeep-19.mat"
-image_h = 300
-image_w = 400
+image_h = 600
+image_w = 800
 channels = 3
 num_iterations = 200
 
