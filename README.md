@@ -9,8 +9,8 @@ For the content image:
 
 And style image:
 
-<img src="images/paint.jpg" width="400px" height="300px" />
+<img src="images/paint.jpg" width="400px" height="300px" /><img src="images/abstract_art.jpg" width="400px" height="300px" />
 
 Generated image:
 
-<img src="output/mumbai+paint.jpg" width="400px" height="300px" />
+<img src="output/mumbai+paint.jpg" width="400px" height="300px" /><img src="images/mumbai+abstract_art.jpg" width="400px" height="300px" />
