@@ -13,5 +13,5 @@ And style image:
 
 Generated image:
 
-<img src="output/mumbai+paint.jpg" width="400px" height="300px" /><img src="images/mumbai+guernica.jpg" width="400px" height="300px" />
+<img src="output/mumbai+paint.jpg" width="400px" height="300px" /><img src="output/mumbai+guernica.jpg" width="400px" height="300px" />
 
