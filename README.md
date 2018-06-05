@@ -17,6 +17,6 @@ Generated image:
 
 The generated image differs according to the control parameters like:
 
-Training for 200 iterations vs 2000 iterations
+For example, generated image for <acau and StarryNight after 200 iterations vs 2000 iterations
 
 <img src="output/Macau+StarryNight200.jpg" width="400px" height="300px" /><img src="output/Macau+StarryNight2000.png" width="400px" height="300px" />
