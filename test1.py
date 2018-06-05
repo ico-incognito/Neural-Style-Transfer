@@ -60,7 +60,7 @@ def load_vgg_model(path):
 
 		return _relu
 
-	#Perform average pooling
+	#Perform average pooling (The VGG19 uses max pooling but for style transfer, average pooling is preferred)
 	def _avgpool(prev_layer):
 		return tf.nn.avg_pool(prev_layer, ksize=[1, 2, 2, 1], strides=[1, 2, 2, 1], padding='SAME')
 
