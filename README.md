@@ -15,3 +15,7 @@ Generated image:
 
 <img src="output/mumbai+paint.jpg" width="400px" height="300px" /><img src="output/mumbai+guernica.jpg" width="400px" height="300px" />
 
+The generated image differs according to the control parameters like:
+Training for 200 iterations and 2000 iterations
+<img src="output/Macau+StarryNight200.jpg" width="400px" height="300px" />
+<img src="output/Macau+StarryNight2000.jpg" width="400px" height="300px" />
